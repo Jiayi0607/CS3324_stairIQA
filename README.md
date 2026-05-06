@@ -1,0 +1,13 @@
+# Explanation for files
+- DIPreport_gjy.pdf
+- README.md
+- StairIQA
+  - csvfiles: .csv for training on Koniq-10K
+  - expData: experiment results were saved in it
+  - logfiles: training log
+  - models: stairIQA model
+  - IQADataset.py and utils.py: tool file
+  - train_single_database.py: training code
+  - test_staircase.py: test for three test sets
+  - test_single_database.py: test for reference image
+  - method.txt: terminal instruction for training and test

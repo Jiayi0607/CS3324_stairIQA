@@ -1,0 +1,18 @@
+{
+    "gpu": 0,
+    "num_epochs": 100,
+    "batch_size": 30,
+    "resize": 384,
+    "crop_size": 320,
+    "lr": 5e-05,
+    "decay_ratio": 0.9,
+    "decay_interval": 10.0,
+    "snapshot": "expData\\ModelFolder\\StairIQA\\",
+    "results_path": "expData\\ModelFolder\\StairIQA\\",
+    "database_dir": "expData\\Koniq10k\\ImageDatabase\\512_384\\",
+    "model": "stairIQA_resnet",
+    "multi_gpu": true,
+    "print_samples": 20,
+    "database": "Koniq10k",
+    "test_method": "five"
+}
