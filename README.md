@@ -1,5 +1,4 @@
 # Explanation for files
-- DIPreport_gjy.pdf
 - README.md
 - StairIQA
   - csvfiles: .csv for training on Koniq-10K
